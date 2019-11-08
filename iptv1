@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:0,TV1
+http://tmg.ustreamix.com/tmg.m3u8?stream=tv-1-malaysia&expired=eca7eb7df4bb053584c0c66ae0931b8b&token=de7b4e69ce8b378661783385579bec51
+#EXTINF:0,TV2
+http://tmg.ustreamix.com/tmg.m3u8?stream=tv2-malaysia&expired=32845cdb61fb8ad67ddff341d0a9dfd7&token=ef9f6c3020f472e3ea69e911a4968238
+#EXTINF:0,TV3
+http://tmg.ustreamix.com/tmg.m3u8?stream=tv3-malaysia&expired=da63a209958f546620b2ec778227011a&token=de7b4e69ce8b378661783385579bec51
+#EXTINF:0,NTV7
+http://tmg.ustreamix.com/tmg.m3u8?stream=ntv7-malaysia&expired=cb21f3515f72a539921c29e3e95251a8&token=de7b4e69ce8b378661783385579bec51
+#EXTINF:0,8TV
+http://tmg.ustreamix.com/tmg.m3u8?stream=8tv-malaysia&expired=c8d1d653c5d7b619b5a99c349fd74ad3&token=f3d192fcf4b6f7bb3dd6a3d87836b12d
+#EXTINF:0,TV9
+http://tmg.ustreamix.com/tmg.m3u8?stream=tv9-malaysia&expired=b4d0ba8738bb0bd58cef717d3999fd87&token=f3d192fcf4b6f7bb3dd6a3d87836b12d
+#EXTINF:0,Astro Awani
+http://tmg.ustreamix.com/tmg.m3u8?stream=astro-awani&expired=e97ab3df490524eff83e6abd57dad17f&token=de7b4e69ce8b378661783385579bec51
+#EXTINF:0,Astro Prima
+http://tmg.ustreamix.com/tmg.m3u8?stream=astro-prima&expired=e214414c55b86d9f30f20e41ec276343&token=de7b4e69ce8b378661783385579bec51
