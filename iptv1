@@ -129,7 +129,7 @@ http://bit.ly/astro-OASIS
 http://bit.ly/astro-ARENA
 
 #EXTINF:-1  tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/105_300.png" group-title="ASTRO",ASTRO PRIMA
-http://bit.ly/astro-PRIMA
+http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
 
 #EXTINF:-1 tvg-logo="http://www.astro.com.my/whats-on/logoimages/ChannelLogo/Pos/132_300.png" group-title="ASTRO",ASTRO WARNA
 http://bit.ly/astro-WARNA
