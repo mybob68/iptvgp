@@ -1,39 +1,69 @@
 #EXTM3U
-#EXTINF:-1, group-title="MALAYSIA",ASTRO
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 
 #EXTINF:-1, group-title="MALAYSIA",TV 1
 http://rtm1mobile.secureswiftcontent.com:80/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
 
 #EXTINF:-1, group-title="MALAYSIA",TV 2
 http://rtm2mobile.secureswiftcontent.com:80/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv3a_webos.jpg" group-title="MALAYSIA",TV3
+http://103.82.219.66:6543/live/9B018DFCEDA448F380405340C339AD72/playlist.m3u8?sid=6b8dfbcaa1a84158b4821a4e37625f52&origin=MTAuMjAuNjMuMjAyOjYwNjA=
+ 
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/ntv7_webos.jpg" group-title="MALAYSIA",NTV7
+http://103.82.219.66:6543/live/9C5B434BB49141119F38AF7FDD4B6D83/playlist.m3u8?sid=605776afa34846cea3399c048e4d1e18&origin=MTAuMjAuNjMuMjAyOjYwNjA=
+ 
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/8tva_webos.jpg" group-title="MALAYSIA",8TV
+http://103.82.219.66:6543/live/BA6C7841502446CBB5A1A4FCB18AAC99/playlist.m3u8?sid=9c2bae766f674b24a358e9b3f10454b5&origin=MTAuMjAuNjMuMjAyOjYwNjA=
+ 
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv9a_webos.jpg" group-title="MALAYSIA",TV9
+http://103.82.219.66:6543/live/B1D6CEDF1EF24A28A1201C3B20F6E814/playlist.m3u8?sid=dafd63697b5044e4aade904bd6d840eb&origin=MTAuMjAuNjMuMjAyOjYwNjA=
+
+#EXTINF:0, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Surialogo700x525_20130517103430.jpg/revision/latest?cb=20161026075708" group-title="SINGAPORE", SURIA
 #EXTINF:-1, group-title="MALAYSIA",RTM OKEY
 http://rtm1mobile.secureswiftcontent.com:80/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+
 #EXTINF:-1, group-title="MALAYSIA",RTM Berita
 http://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/media-udhb3nkl6_b1096000_10191.m3u8
 
 #EXTINF:-1, group-title="MALAYSIA",ASTRO
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="MALAYSIA",HELLO
-http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
-#EXTINF:-1, group-title="MALAYSIA",CITRA
-http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m0641803235cf1329581&ct=17949&tsum=620426df4e138d2280de722046bea693
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+ 
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/awani_webos.jpg" group-title="MALAYSIA",ASTRO AWANI
+http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8
+
 #EXTINF:-1, group-title="MALAYSIA",AWANI 2
 http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8_04.m3u8?fluxustv.m3u8
+ 
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/arena_webos.jpg" group-title="MALAYSIA",ASTRO ARENA
+http://dibo.live:8080/Cp4FEzcD52/GixgMLzAxW/142601
+
+#EXTINF:-1, group-title="MALAYSIA",HELLO
+http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8_05.m3u8
+
+#EXTINF:-1, group-title="MALAYSIA",CITRA
+http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m0641803235cf1329581&ct=17949&tsum=620426df4e138d2280de722046bea693
+
 #EXTINF:-1, group-title="MALAYSIA",ASTRO WARNA
 http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
+
 #EXTINF:-1, group-title="MALAYSIA",ASTRO CHINESE
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+
 #EXTINF:-1, group-title="MALAYSIA",ASTRO MOVIE
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+
 #EXTINF:-7,Filmrise Movies
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+
 #EXTINF:-8,HBO 2 (LA)
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
+
 #EXTINF:-9,Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
 #EXTINF:-10, FightBox
 http://ott-cdn.ucom.am/s86/index.m3u8?fluxustv.m3u8
+
 #EXTINF:-11, The Outdoor Cooking Channel
 http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8?fluxustv.m3u8
 #EXTINF:-12,Foodie
