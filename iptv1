@@ -1,14 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1, group-title="MALAYSIA",TV 1
-http://rtm1mobile.secureswiftcontent.com:80/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/webOS_OSE/master/fta%20icons/tv1_webos.jpg" group-title="MALAYSIA",TV1
+https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
-#EXTINF:-1, group-title="MALAYSIA",TV 2
-http://rtm2mobile.secureswiftcontent.com:80/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
-
-#EXTINF:-1,group-title="MALAYSIA",TV1
-http://rtm1mobile.secureswiftcontent.com:80/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
- 
 #EXTINF:-1,group-title="MALAYSIA",TV2
 http://rtm2mobile.secureswiftcontent.com:80/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
  
@@ -532,7 +526,7 @@ http://rtm-live.glueapi.io/smil:rtmch003.smil/playlist.m3u8
 http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
  
 #EXTINF:-1,group-title="MALAYSIA",TV2
-http://rtm-live.glueapi.io/smil:rtmch002.smil/chunklist_b1064000_sleng.m3u8
+http://rtm2mobile.secureswiftcontent.com:80/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
  
 #EXTINF:-1,group-title="MALAYSIA",TV3
 http://livecdn.long.tv:8123/live/9B018DFCEDA448F380405340C339AD72/playlist.m3u8?sid=6b8dfbcaa1a84158b4821a4e37625f52
@@ -1097,9 +1091,6 @@ http://130.185.150.79:1935/trunk/SONY-SIX/playlist.m3u8
 #EXTINF:0 tvg-logo="http://i68.tinypic.com/ymefo.jpg" ,kofenja-IPTV
 http://139.59.166.48:8081/live/live3/playlist.m3u8
  
-#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="kofenja-IPTV",NET TV FHD
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
- 
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="kofenja-IPTV",TRANS TV
 http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="kofenja-IPTV",TRANS 7
@@ -1141,9 +1132,7 @@ http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=0
  
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png?v=1.0.0.0" group-title="kofenja-News",Metro TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
- 
-#EXTINF:-1 group-title="kofenja-News",Tempo TV
-http://203.153.218.26:9981/stream/channelid/854053037?ticket=3B7023E34B428673E9978125E3137C3E6AF3FFCE&profile=pass
+
 #EXTINF:-1 tvg-logo="http://i66.tinypic.com/2j673mg.jpg" group-title="kofenja-News", JAKARTA GLOBE NEWS
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
@@ -1190,9 +1179,7 @@ http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2Vy
 http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
 #EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Teguh-Movie",Chinese Word HD
 http://wshls.live.migucloud.com:80/live/41IXD6US_C0/playlist.m3u8
-#EXTINF:-1 group-title="Teguh-Movie",Stephen chow Movie
-http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
- 
+
 #EXTINF:-1 group-title="Teguh-Movie",Andy Lau Movie
 http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
  
@@ -1244,13 +1231,9 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b22
 http://stream.mastvnet.com/MSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="Teguh-China", RTHK 31 (Hong Kong)
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="Teguh-China", RTHK 32 (Hong Kong)
-http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_810_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/5519e17be4b01413b05f2b77/5618341ae4b07e497b3e825f/56183427e4b07e497b3e82cf/1444584167496/SinoVision_LOGO.jpg" group-title="Teguh-China", SinoVision (US)
 #EXTINF:-1 tvg-id="New EPG" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch6.gif" tvg-name="THAI PBS HD"  group-title="Teguh-Thailand",THAI PBS HD
 http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1021.gif" tvg-name="NEW TV HD"  group-title="Teguh-Thailand",NEW TV HD
-http://newtv.cdn.byteark.com/live/playlist_360p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1018.gif" tvg-name="THAIRATH TV HD"  group-title="Teguh-Thailand",THAIRATH TV HD
 https://live.thairath.co.th/trtv2/playlist_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.guchill.com/images/img_tv/tv/ch1019.gif" tvg-name="WORKPOINT TV HD"  group-title="Teguh-Thailand",WORKPOINT TV HD
